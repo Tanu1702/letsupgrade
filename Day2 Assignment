@@ -1,14 +1,9 @@
-// Java Program to Check if Given Integer is Odd or Even
-// Using Brute Forcew Approach
 
-// Importing required classes
 import java.io.*;
 import java.util.Scanner;
 
-// Main class
 class GFG {
 
-	// Main Driver Method
 	public static void main(String[] args)
 	{
 		// Declaring and initializing integer variable
